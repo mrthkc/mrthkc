@@ -1,4 +1,6 @@
 
 ### Hi, I'm Mert Hakcı
-#### Backend / Web Developer from Turkey.
+#### Software Engineer
+##### Backend / Web Developer
+###### from Turkey
 
